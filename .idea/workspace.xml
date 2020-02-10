@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a1f6ece-cea4-47f7-a5e4-d9aacdfdcb4b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Music/src/com/company/Major.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Music/src/com/company/Mode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Music/src/com/company/Scale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicRTS/BasicRTS-master" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicRTS/BasicRTS-master" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Music/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Music/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Music/out/production/Musical Notes and Other Stuff/com/company/Jajtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Music/out/production/Musical Notes and Other Stuff/com/company/Jajtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Music/out/production/Musical Notes and Other Stuff/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Music/out/production/Musical Notes and Other Stuff/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Music/out/production/Musical Notes and Other Stuff/com/company/Note.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Music/out/production/Musical Notes and Other Stuff/com/company/Note.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Music/src/com/company/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Music/src/com/company/DoublyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Music/src/com/company/Interval.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Music/src/com/company/Interval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Music/src/com/company/Jajtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Music/src/com/company/Jajtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Music/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Music/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Music/src/com/company/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Music/src/com/company/Note.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Music/src/com/company/Ordinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Music/src/com/company/Ordinal.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WfZsoza6UebwM0dRY9u8cXTFRc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.My Runner">
+    <configuration name="My Runner" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <module name="DoublyLinkedListGeorgeSheng" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tree Map Practice" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="mapAss" />
+      <module name="TreeMap Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../TreeMap Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.My Runner" />
+      <item itemvalue="Application.Tree Map Practice" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a1f6ece-cea4-47f7-a5e4-d9aacdfdcb4b" name="Default Changelist" comment="" />
+      <created>1579542818833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579542818833</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1579543735509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1579543735509" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579543776424">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1579543776424" />
+    <state x="689" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579543775330">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1579543775330" />
+    <state x="808" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579542839079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1579542839079" />
+    <state x="710" y="183" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579623672788">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="1112" y="261" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1579546515152" />
+    <state x="710" y="183" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1579623672788" />
+    <state x="740" y="229" key="FileChooserDialogImpl" timestamp="1579545874888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="229" key="FileChooserDialogImpl/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1579545874888" />
+    <state width="1323" height="227" key="GridCell.Tab.0.bottom" timestamp="1579922206440">
+      <screen x="-1366" y="311" width="1366" height="728" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.bottom/-1366.311.1366.728/0.0.1920.1040@-1366.311.1366.728" timestamp="1579922206440" />
+    <state width="914" height="274" key="GridCell.Tab.0.bottom/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1579546515355" />
+    <state width="1323" height="227" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579801092151" />
+    <state width="1323" height="227" key="GridCell.Tab.0.center" timestamp="1579922206439">
+      <screen x="-1366" y="311" width="1366" height="728" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.center/-1366.311.1366.728/0.0.1920.1040@-1366.311.1366.728" timestamp="1579922206439" />
+    <state width="914" height="274" key="GridCell.Tab.0.center/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1579546515355" />
+    <state width="1323" height="227" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579801092151" />
+    <state width="1323" height="227" key="GridCell.Tab.0.left" timestamp="1579922206439">
+      <screen x="-1366" y="311" width="1366" height="728" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.left/-1366.311.1366.728/0.0.1920.1040@-1366.311.1366.728" timestamp="1579922206439" />
+    <state width="914" height="274" key="GridCell.Tab.0.left/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1579546515355" />
+    <state width="1323" height="227" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579801092151" />
+    <state width="1323" height="227" key="GridCell.Tab.0.right" timestamp="1579922206439">
+      <screen x="-1366" y="311" width="1366" height="728" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.right/-1366.311.1366.728/0.0.1920.1040@-1366.311.1366.728" timestamp="1579922206439" />
+    <state width="914" height="274" key="GridCell.Tab.0.right/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1579546515355" />
+    <state width="1323" height="227" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579801092151" />
+    <state x="625" y="218" width="679" height="603" key="NewModule_or_Project.wizard" timestamp="1579543679926">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="218" width="679" height="603" key="NewModule_or_Project.wizard/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1579543679926" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1579545983583">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1579545983583" />
+    <state x="342" y="140" key="new project wizard" timestamp="1579830563608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1579830563608" />
+  </component>
+</project>
